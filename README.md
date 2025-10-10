@@ -7,3 +7,5 @@ In this project we propose to try to mitigate the effects of climate change by a
 An attempt is made to predict the energy consumption of buildings using a dataset that considers some characteristics of buildings located on the NE coast of the United States (mostly New York) together with climate and weather data of the sites where these buildings are located.
 
 In this way, governmental agents, decision makers and construction companies will have an ML-based tool to elaborate regulations, proposals and/or preventive actions (for new buildings) and retrofitting (for old buildings).
+
+[Video 1] (https://youtu.be/eOs92u1BVWQ?si=1TMCaNStQqxw-G-S)
