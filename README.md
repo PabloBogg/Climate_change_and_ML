@@ -9,3 +9,5 @@ An attempt is made to predict the energy consumption of buildings using a datase
 In this way, governmental agents, decision makers and construction companies will have an ML-based tool to elaborate regulations, proposals and/or preventive actions (for new buildings) and retrofitting (for old buildings).
 
 [Video 1](https://youtu.be/eOs92u1BVWQ?si=1TMCaNStQqxw-G-S)
+
+[Video 2]()
