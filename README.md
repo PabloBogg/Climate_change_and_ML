@@ -10,4 +10,4 @@ In this way, governmental agents, decision makers and construction companies wil
 
 [Video 1](https://youtu.be/eOs92u1BVWQ?si=1TMCaNStQqxw-G-S)
 
-[Video 2]()
+[Video 2](https://www.youtube.com/watch?v=7MDOtuiexD4&list=PLBIxkZP-PNY-XeU2eJZ4Nwsk7m7NKc0UY&index=6)
